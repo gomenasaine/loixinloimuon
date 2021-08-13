@@ -18,7 +18,7 @@ const CONFIG = {
 
     btnReply: '>< cảm ơn nhiều',
 
-    reply: 'Vì cậu rất ngầu và đẹp trai >_<',
+    reply: 'Um thiếu m tao cô đơn lắmTT',
 
     mess: 'T biết mà 🥰.Lần này chắc chắn là lời xin lỗi cuối cùng từ t',
 
