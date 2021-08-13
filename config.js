@@ -1,32 +1,32 @@
 const CONFIG = {
 
-    introTitle: 'Này cậu!',
+    introTitle: 'Nè yumi-chan',
 
-    introDesc: `Tớ có điều muốn hỏi`,
+    introDesc: `Tao có điều muốn nói`,
 
-    btnIntro: 'Hỏi đi',
+    btnIntro: 'Nói đi',
 
-    title: 'Cậu đang thik tớ đúng không? 😙',
+    title: 'Mày cho t một cơ hội nữa để sửa sai đc ko? 😙',
 
     desc: 'Phải trả lời thật lòng nha',
 
-    btnYes: 'Vâng! Tớ rất là thik cậu <33',
+    btnYes: 'Tất nhiên rồi boku no bestfriendo',
 
-    btnNo: 'Không nha :3',
+    btnNo: 'Cút,phiền!',
 
-    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại thik tớ <3',
+    question:'Nếu đã đồng ý tha thứ gỡ block tao được ko <3?',
 
-    btnReply: 'Gửi cho cậu <3',
+    btnReply: '>< cảm ơn nhiều',
 
     reply: 'Vì cậu rất ngầu và đẹp trai >_<',
 
-    mess: 'Tớ biết mà 🥰. Thật ra tớ cũng rất là thik cậu 😘😘',
+    mess: 'T biết mà 🥰.Lần này chắc chắn là lời xin lỗi cuối cùng từ t',
 
-    messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rôi nha.',
+    messDesc: 'Vậy từ giờ trở đi chúng ta mãi là bạn thân của nhau nhé.',
 
     btnAccept: 'Okiiiii lun <3',
 
-    messLink: 'https://m.me/100010557631588 ' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/seijioiw ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 
 }
 
